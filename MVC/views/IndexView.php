@@ -6,7 +6,7 @@
     
     <body>   
         
-    <img id="Imagen" src="../assets/images/automation.webp" alt="image 2">
+    <img id="Imagen" src="../assets/images/automation.png" alt="image 2">
         <h1>HOLA MUNDO</h1>
 
     <div class="container">
